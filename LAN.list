@@ -18,7 +18,7 @@ IP-CIDR6,::1/128,DIRECT,no-resolve
 IP-CIDR6,fc00::/7,DIRECT,no-resolve
 IP-CIDR6,fe80::/10,DIRECT,no-resolve
 IP-CIDR6,ff00::/8,DIRECT,no-resolve
-# ===== 域间路由（局域网域名直连）=====
+# ===== 国内域名与局域网解析 =====
 DOMAIN-SUFFIX,cn,DIRECT
 DOMAIN-SUFFIX,local,DIRECT
 DOMAIN-SUFFIX,lan,DIRECT
